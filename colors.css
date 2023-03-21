@@ -16,6 +16,7 @@
   --sn-stylekit-warning-color: #FFCA28;		/* Ax 400	*/
   --sn-stylekit-warning-contrast-color: black;	
   --sn-stylekit-danger-color: #EF5350;		/* Ax 400	*/			
+  --sn-stylekit-danger-light-color: var(--background-2);		
   --sn-stylekit-danger-contrast-color: black;
 			
   --sn-stylekit-shadow-color: var(--border-color); 		
