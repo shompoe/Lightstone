@@ -1,6 +1,6 @@
 {
   "name": "Stone-light",
-  "version": "1",
+  "version": "1.0",
   "main": "colors.css",
   "devDependencies": {
     "grunt": "^1.0.1",
