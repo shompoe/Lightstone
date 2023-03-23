@@ -1,5 +1,5 @@
 {
-  "name": "Stone-light",
+  "name": "Lightstone",
   "version": "1.0",
   "main": "colors.css",
   "devDependencies": {
@@ -9,11 +9,11 @@
     "grunt-contrib-sass": "^1.0.0"
   },
   "sn": {
-    "main": "colors.css"
+    "main": "index.css"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shompoe/stone-light.git"
+    "url": "git://github.com/shompoe/Lightstone.git"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
